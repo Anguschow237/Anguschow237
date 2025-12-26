@@ -27,5 +27,5 @@ Year 3 Computer Science student at Hong Kong Baptist University (HKBU), diving i
 - [Low-Light Image Enhancement](https://github.com/Anguschow237/hybrid-zero-dce-low-light-enhancement): Comparative study of supervised U-Net and hybrid ZeroDCE models for enhancing dark images
 
 ## Connect
-- Email: chowangus123@gmail.com
-- LinkedIn: [Add your LinkedIn URL here if available]
+- Email: tzshinchow.angus@gmail.com
+- LinkedIn: www.linkedin.com/in/tsz-hin-chow-208a14172
