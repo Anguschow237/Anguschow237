@@ -2,25 +2,25 @@
 
 Year 3 Computer Science student at Hong Kong Baptist University (HKBU), diving into AI and Machine Learning. Just finished my first intro course to AI/ML and built a low-light image enhancement project using U-Net and ZeroDCE in PyTorch. Excited about computer vision and seeking internships or collaborations to learn more!
 
-## Recent Project
+## 🚩 Recent Project
 - [Low-Light Image Enhancement](https://github.com/Anguschow237/hybrid-zero-dce-low-light-enhancement): Comparative study of supervised U-Net and hybrid ZeroDCE models for enhancing dark images—my first AI project!
 
-## Education
+## 🌱 Education
 - Year 3 (Semester 1): Intro to AI/ML (hands-on projects like image enhancement with PyTorch), Software Engineering (full-stack dev with databases), Applied Linear Algebra (math for computing), Data Communications (networking basics).
 - Year 2: Data Structures/Algorithms (efficient coding), Database Management (SQL/design), Operating Systems (system concepts), Programming/OOP (Java problem-solving assignments).
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**AI/ML & Computer Vision**  
+** 🤖 AI/ML & Computer Vision**  
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
 
-**Programming Languages & Fundamentals**  
+** 💻 Programming Languages & Fundamentals**  
 <img src="https://skillicons.dev/icons?i=java,c" />
 
-**Web Development & Frameworks**  
+** 🌐 Web Development & Frameworks**  
 <img src="https://skillicons.dev/icons?i=js,html,css,vue,nodejs,express" />
 
-**Databases & Development Tools**  
+** 🔧 Databases & Development Tools**  
 <img src="https://skillicons.dev/icons?i=mysql,vscode,intellij,colab" />
 
 ## Featured Projects
