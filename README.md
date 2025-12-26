@@ -29,7 +29,3 @@ Year 3 Computer Science student at Hong Kong Baptist University (HKBU), diving i
 ## Connect
 - Email: chowangus123@gmail.com
 - LinkedIn: [Add your LinkedIn URL here if available]
-
-🌟 Fun fact: I'm new to AI but already hooked on turning low-light photos into clear ones!
-
-<img src="https://profile-counter.glitch.me/Anguschow237/count.svg" />
