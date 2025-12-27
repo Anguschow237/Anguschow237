@@ -29,6 +29,7 @@ Year 3 Computer Science student at Hong Kong Baptist University (HKBU). Passiona
 - [Low-Light Image Enhancement](https://github.com/Anguschow237/hybrid-zero-dce-low-light-enhancement): Comparative study of supervised U-Net and hybrid ZeroDCE models for enhancing dark images
 - [Online Library System (Backend)](https://github.com/Anguschow237/online-library-system-backend): Express.js backend for a full-stack library app with JWT auth, role-based access, book CRUD, and borrowing system using MongoDB.
 - [Online Library System (Frontend)](https://github.com/Anguschow237/online-library-system-frontend): Vue.js frontend for a full-stack library app with responsive UI, login, book browsing, and admin management using Composition API and Bootstrap.
+- [Modern Art Game Simulation](https://github.com/Anguschow237/COMP2046-PA3): Java console-based simulation of the "Modern Art" board game with multiple auction types (Open, Hidden, Fixed Price, One Offer) and player AI (ComputerPlayer, AFKPlayer) using OOP principles (inheritance & polymorphism).
 
 ## 🤝 Connect
 - Email: tzshinchow.angus@gmail.com
