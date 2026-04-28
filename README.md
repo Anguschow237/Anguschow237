@@ -4,6 +4,7 @@ Year 3 Computer Science student at Hong Kong Baptist University (HKBU). Passiona
 
 ## 🚩 Recent Project
 - [Licence Plate Detection & Recognition](https://github.com/Anguschow237/licence-plate-detection-recognition): Comparative study of Faster R-CNN, RetinaNet, and DETR for detection, integrated with CRNN-based OCR. Achieved strong detection accuracy but highlighted cross-domain OCR challenges—my most advanced AI project to date!
+- [Movie Recommendation System](https://github.com/woopakyi/COMP4135-RecSys): Full-stack Flask recommender comparing two ML algorithms (Factorization Machine and SASRec) across two UI themes, with a user feedback and evaluation pipeline. Deployed on Railway with PostgreSQL.
 
 ## 🌱 Education
 - Year 3 (Semester 2): AI Applications (real-world deployment of AI models), Computer Vision & Pattern Recognition (deep learning for detection/recognition), Recommender Systems (algorithm design and evaluation).
